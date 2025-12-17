@@ -17,12 +17,12 @@ With the twist determined, only the taper was left to design. A Matlab script wa
 These equations were then used to make splines in Autodesk Fusion, which the airfoil profile was extruded over. The two images below show the final design of the blades in CAD. 
 
 Once the blades were 3D printed, testing was performed in the wind tunnel named “Big Blue”. The goal of the testing was to generate power curves at different wind speeds to characterize optimal operating speed, omega, and analyze maximum power output. To generate the power curves the following operations were performed multiple times:
-Set wind speed
-Ensure torque brake voltage is zeroed
-Slightly increase voltage of the torque brake
-Wait a short time to allow the system to reach steady state
-Record RPM of wind turbine
-Repeat steps 3-5 until turbine stalls 
+    1.Set wind speed
+    2.Ensure torque brake voltage is zeroed
+    3.Slightly increase voltage of the torque brake
+    4.Wait a short time to allow the system to reach steady state
+    5.Record RPM of wind turbine
+    6.Repeat steps 3-5 until turbine stalls 
 
 The results were the following power curves shown in the image below. At higher wind speeds, we were unable to stall the wind turbine with the maximum torque from the torque brake, leading to incomplete power curves. However, this is a positive indication that the blades were well designed as they are able to effectively generate lift and have potential to generate high power output.
 
