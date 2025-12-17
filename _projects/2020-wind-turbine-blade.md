@@ -17,7 +17,7 @@ With the twist determined, only the taper was left to design. A Matlab script wa
 These equations were then used to make splines in Autodesk Fusion, which the airfoil profile was extruded over. The two images below show the final design of the blades in CAD. 
 
 ![Dimenison and shape of blade]({{ "/assets/images/Wind_turbine_dimensions.png" | relative_url }})
-![Twist of blade]({{ "/assets/images/Wind_turbine_twist.png" | relative_url }})
+![Twist of blade]({{ "/assets/images/Wind_turbine_twist.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 Once the blades were 3D printed, testing was performed in the wind tunnel named “Big Blue”. The goal of the testing was to generate power curves at different wind speeds to characterize optimal operating speed, omega, and analyze maximum power output. To generate the power curves the following operations were performed multiple times:
     1.Set wind speed
