@@ -29,7 +29,7 @@ Once the blades were 3D printed, testing was performed in the wind tunnel named 
 
 The results were the following power curves shown in the image below. At higher wind speeds, we were unable to stall the wind turbine with the maximum torque from the torque brake, leading to incomplete power curves. However, this is a positive indication that the blades were well designed as they are able to effectively generate lift and have potential to generate high power output.
 
-![Power Curves]({{ "/assets/images/Wind_turbine_power_curve.jpg" | relative_url }})
+![Power Curves]({{ "/assets/images/Wind_turbine_power_curve.png" | relative_url }})
 
 This was done as a group project including me and three other students. My contributions to the project were developing the Matlab script to calculate bending stress along the blade, assist in deriving equations from free body diagrams, and perform testing. 
 
