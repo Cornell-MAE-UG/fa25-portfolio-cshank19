@@ -12,8 +12,8 @@ title                    : Shasahnk Chalamalasetty
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Shashank Chalamalasetty
-description              : Shashank Chalamalasetty - Projects and CV 
-baseurl                  : fa25-portfolio-cshank19 # Set this to your repo name 
+description              : Shashank Chalamalasetty - Projects and Resume 
+baseurl                  : fa25-cshank19 # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
