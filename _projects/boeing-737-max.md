@@ -14,6 +14,11 @@ The 737Max aircraft was introduced to the public by Boeing in August 2011. Altho
 
 The success was short lived, as just one year after entering service, a 737Max operated by Lion Air crashed just 13 minutes after takeoff, with everyone onboard dying.  The investigation revealed a control system MCAS was activated 26 times in ten minutes and forced the nose of the plane downwards. The investigation placed blame on Boeing and FAA for this incident. Following this tragedy, some safety directives were created and information publicized to allow pilots to understand what this system does and how to fix it when it is not working properly. However, despite these changes, another 737Max operated by Ethiopia Airlines crashed just 6 minutes after takeoff, leaving no survivors. With yet another tragic crash, all 737Max aircrafts worldwide were grounded and the design was heavily blamed. 
 
+## Engineering Decisions
+As mentioned earlier, Boeing was severely pressured by the commercial success of their biggest competitor, Airbus. Moreover, the A320neo directly competes with the 737’s market segment. Under such pressure, Boeing decided to place more modern LEAP-1B engines on the preexisting 737 frame. This introduced several engineering challenges. The new engines were bigger than the old engines, and the 737 frame did not have sufficient ground clearance. To address this issue Boeing place the new engines were mounted higher and more forward than the previous engines. This new position introduces a vortex at high angles of attack, and due to the center of gravity being behind this vortex location, the plane would pitch higher, making the angle of attack even higher [2]. 
+
+
 ## References 
 [1] The Boeing 737 MAX: Lessons for Engineering Ethics
 Joseph Herkert1 · Jason Borenstein2 · Keith Miller 
+[2] https://skybrary.aero/articles/maneuvering-characteristics-augmentation-system-mcas 
