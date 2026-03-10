@@ -13,18 +13,18 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in  Passionate about ... and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.5/4.0 | Graduation: May, 2026
 
-- **[High School Name]**  
+- **Middletown High School North**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2022, Salutatorian
 
 ---
 
@@ -55,12 +55,12 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   - Responsibility 2  
 
 ---
-
+<!-- 
 #### Achievements & Certifications
 - [Certification Name], [Issuing Organization], [Year]  
 - [Achievement Name], [Competition/Event], [Year]  
 
----
+--- -->
 
 #### Extracurricular Activities
 - Member of [Club/Organization Name]  
